@@ -29,6 +29,17 @@ namespace SerializationExample
             IFormatter form = new BinaryFormatter();
             form.Serialize(fileStream, dataObject);
             fileStream.Close();
+
+            //Now we are going to deserialized of file stream and write the output out.
+            Stream fileRead = File.Open(filename, FileMode.Open);
+
+            //deserialize the file stream and reassigned the return object to our dataObject holder.
+            dataObject = (DataObjectSerializable)form.Deserialize(fileRead);
+            //print out the value to see whether its the same with our first assigned value.
+            Console.WriteLine("Name :" + dataObject.Name);
+            Console.WriteLine("Age :" + dataObject.Age);
+            //to pause our console from exit. request the console to read for key input.
+            Console.ReadKey();
         }
 
 

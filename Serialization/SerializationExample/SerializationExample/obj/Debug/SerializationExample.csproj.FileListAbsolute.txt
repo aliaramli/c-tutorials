@@ -4,3 +4,9 @@ D:\SelfLearning\c#\Serialization\SerializationExample\SerializationExample\bin\D
 D:\SelfLearning\c#\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.csprojResolveAssemblyReference.cache
 D:\SelfLearning\c#\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.exe
 D:\SelfLearning\c#\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.pdb
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\bin\Debug\SerializationExample.exe.config
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.exe
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.pdb
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\bin\Debug\SerializationExample.exe
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\bin\Debug\SerializationExample.pdb
+D:\SelfLearning\git_repo\c-tutorials\Serialization\SerializationExample\SerializationExample\obj\Debug\SerializationExample.csprojResolveAssemblyReference.cache
